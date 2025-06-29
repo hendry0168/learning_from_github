@@ -1,6 +1,6 @@
-# 🧠 AI/ML Trading Learning Tracker
+# 🧠 Learning Tracker
 
-A curated list of GitHub projects, resources, and personal notes as I learn to build AI/ML-powered swing and day trading systems.
+List of GitHub link, resources, and personal notes as I learn to build projects.
 
 ---
 
