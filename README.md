@@ -39,11 +39,6 @@ List of GitHub link, resources, and personal notes as I learn to build projects.
 
 ---
 
-### 🔗 [Awesome Project-Based Learning](https://github.com/NirantK/awesome-project-based-learning)  
-📌 A curated list of project-based resources to master machine learning, NLP, and data science through doing.
-
----
-
 ### 🔗 [Machine Learning Complete](https://github.com/Nyandwi/machine_learning_complete)  
 📌 A complete learning resource with notebooks covering Python, data preprocessing, visualization, and classical ML algorithms.
 
