@@ -4,6 +4,60 @@ List of GitHub link, resources, and personal notes as I learn to build projects.
 
 ---
 
+### 🔗 [Machine Learning Tutorial](https://github.com/data-flair/machine-learning-projects)  
+📌 Offering beginner-to-intermediate tutorials, practical exercises, interview questions, and end-to-end ML project ideas.
+
+---
+
+### 🔗 [Machine Learning Projects](https://github.com/shsarv/Machine-Learning-Projects)  
+📌 A collection of various machine learning projects covering core concepts with hands-on implementation.
+
+---
+
+### 🔗 [Machine Learning Projects for Beginners and Experts – ProjectPro](https://www.projectpro.io/article/machine-learning-projects-for-beginners-and-experts/425)  
+📌 An in-depth article with categorized ML project ideas and step-by-step guidance for different skill levels.
+
+---
+
+### 🔗 [14 Days Beginner Practical Guide of Machine Learning](https://github.com/ashishpatel26/14-days-Beginner-Practical-Guide-of-Machine-Learning)  
+📌 A 14-day practical learning plan for beginners to get hands-on experience with machine learning fundamentals.
+
+---
+
+### 🔗 [99 Machine Learning Projects](https://github.com/gimseng/99-ML-Learning-Projects)  
+📌 A curated list of 99 machine learning projects organized by type and difficulty, with implementation resources.
+
+---
+
+### 🔗 [Deep Learning Projects](https://github.com/aswintechguy/Deep-Learning-Projects)  
+📌 A diverse set of deep learning projects using Jupyter notebooks, covering topics like NLP, CNNs, and GANs.
+
+---
+
+### 🔗 [Practical Machine Learning](https://github.com/practical-tutorials/project-based-learning/tree/master/machine-learning)  
+📌 A project-based resource to help learners build real-world machine learning applications from scratch.
+
+---
+
+### 🔗 [Awesome Project-Based Learning](https://github.com/NirantK/awesome-project-based-learning)  
+📌 A curated list of project-based resources to master machine learning, NLP, and data science through doing.
+
+---
+
+### 🔗 [Machine Learning Complete](https://github.com/Nyandwi/machine_learning_complete)  
+📌 A complete learning resource with notebooks covering Python, data preprocessing, visualization, and classical ML algorithms.
+
+---
+
+### 🔗 [Machine Learning Repositories](https://github.com/recodehive/machine-learning-repos)  
+📌 A community-driven index of machine learning repositories and open project ideas for collaboration and practice.
+
+---
+
+### 🔗 [Build Your Own Machine Learning](https://github.com/danistefanovic/build-your-own-x#machine-learning)  
+📌 A hands-on guide to learning machine learning by building algorithms from scratch as part of the "Build Your Own X" series.
+
+---
 ### 🔗 [PyBroker](https://github.com/edtechre/pybroker)
 > A complete backtesting and ML integration framework for trading.
 - ⭐ Strengths: Walk-forward testing, supports custom ML models (sklearn, xgboost, etc.)
@@ -150,17 +204,10 @@ List of GitHub link, resources, and personal notes as I learn to build projects.
 
 | Project | Started | Status | Notes |
 |--------|---------|--------|-------|
-| PyBroker | ✅ | Studying regression | Will try next features |
-| ML for Trading | ⏳ | Not yet started | Take notes by section |
-| Sentiment Bot | ⏳ | Not yet started | Curious how text becomes price signal |
+| Build my own Decision Tree | ✅ | Studying Decision Tree | Will try next features |
+| EDA Portfolio | ⏳ | Not yet started | - |
 
----
 
-## 🧰 Useful Tools & Libraries
-
-- `pandas_ta`, `backtrader`, `scikit-learn`, `xgboost`
-- `alpaca-trade-api`, `yfinance`
-- Jupyter + VS Code
 
 ---
 
