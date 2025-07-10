@@ -53,11 +53,6 @@ List of GitHub link, resources, and personal notes as I learn to build projects.
 📌 A community-driven index of machine learning repositories and open project ideas for collaboration and practice.
 
 ---
-
-### 🔗 [Build Your Own Machine Learning](https://github.com/danistefanovic/build-your-own-x#machine-learning)  
-📌 A hands-on guide to learning machine learning by building algorithms from scratch as part of the "Build Your Own X" series.
-
----
 ### 🔗 [PyBroker](https://github.com/edtechre/pybroker)
 > A complete backtesting and ML integration framework for trading.
 - ⭐ Strengths: Walk-forward testing, supports custom ML models (sklearn, xgboost, etc.)
